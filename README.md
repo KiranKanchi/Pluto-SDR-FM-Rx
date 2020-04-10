@@ -13,9 +13,10 @@ Demodulate FM signal picked up through FM Dipole antenna
 [picture]: https://i.pinimg.com/736x/68/62/d1/6862d1e6e541db3c6d2559778989b7e2.jpg "Antenna used"
 
 2. [Analog device PLUTO SDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html). 
-![alt text][SDR](https://www.analog.com/-/media/analog/en/evaluation-board-images/images/adalm-pluto-web.gif?la=en&h=270&thn=1&hash=AC178C96A25ABD5C1234C238DCC75145)
+![alt text][SDR]
 
 [SDR]: https://www.analog.com/-/media/analog/en/evaluation-board-images/images/adalm-pluto-web.gif?la=en&h=270&thn=1&hash=AC178C96A25ABD5C1234C238DCC75145 "SDR used"
+
 ## Software 
 
 1. [GNU Radio companion](https://wiki.gnuradio.org/index.php/Main_Page)
