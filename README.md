@@ -7,10 +7,7 @@ Demodulate FM signal picked up through Dipole antenna
 
 ## Hardware 
 1. [Rabbit ear telescopic antenna](https://www.amazon.com/Behind-Indoor-Replacement-Antenna-Extension/dp/B07KMF3SSG/ref=sr_1_8?dchild=1&keywords=rabbit+ear+antenna&qid=1586538911&sr=8-8):
-
-
-![](https://i.pinimg.com/736x/68/62/d1/6862d1e6e541db3c6d2559778989b7e2.jpg =250x250)
-
+![test](https://github.com/favicon.ico | width=48)
 2. [Analog device PLUTO SDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html):
 
 ![alt text][SDR]
