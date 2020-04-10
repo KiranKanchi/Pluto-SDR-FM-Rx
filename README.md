@@ -37,7 +37,8 @@ I have enabled two slider/variables.
 * Volume gain
 
 you can tune into your local FM station by setting the Local oscillator of your SDR to FM channel frequency.
-in my case following are valid FM stations 91.1e6, 91.9e6, 92.7e6, 93.5e6, 94.3e6, 98.3e6 in Hz.
+
+In my case following are valid FM stations *91.1e6, 91.9e6, 92.7e6, 93.5e6, 94.3e6, 98.3e6* in Hz labelled as *1, 2, 3, 4, 5, 6*.  
 
 
 
