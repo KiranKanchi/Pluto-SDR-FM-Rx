@@ -33,8 +33,8 @@ My simple GRC project connects to pluto-sdr as signal source, perform a bunch of
 On successfully executing the .grc project, you should see two graphs of Power (dB) vs Frequency.
 I have enabled two slider/variables. 
 
-* 1. Receiver gain
-* 2. Volume gain
+* Receiver gain
+* Volume gain
 
 you can tune into your local FM station by setting the Local oscillator of your SDR to FM channel frequency.
 in my case following are valid FM stations 91.1e6, 91.9e6, 92.7e6, 93.5e6, 94.3e6, 98.3e6 in Hz.
