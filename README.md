@@ -21,7 +21,7 @@ Demodulate FM signal picked up through Dipole antenna
 
 1. [GNU Radio companion](https://wiki.gnuradio.org/index.php/Main_Page)
 
-<img src="https://github.com/KiranKanchi/Pluto-SDR-FM-Rx/blob/master/Screen%20shots/GRC_Signal_flow.png?raw=true" width="1360" height="960">
+<img src="https://github.com/KiranKanchi/Pluto-SDR-FM-Rx/blob/master/Screen%20shots/GRC_Signal_flow.png?raw=true" width="1000" height="500">
 
 
 
