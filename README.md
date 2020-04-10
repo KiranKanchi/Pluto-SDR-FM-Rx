@@ -10,8 +10,8 @@ Demodulate FM signal picked up through Dipole antenna
 
 <a href="url"><img src="https://i.pinimg.com/736x/68/62/d1/6862d1e6e541db3c6d2559778989b7e2.jpg" align="left" height="248" width="248" ></a>
 
-
-2. [Analog device PLUTO SDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html):
+<b>
+2. [Analog device PLUTO SDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html):</b>
 
 ![alt text][SDR]
 
